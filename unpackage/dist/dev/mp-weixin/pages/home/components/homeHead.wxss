@@ -1,0 +1,161 @@
+.headBox.data-v-1cf59881 {
+  background-color: #fff;
+  position: fixed !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 999;
+  border-bottom: 1px solid #d9d9d9;
+}
+.headTitle.data-v-1cf59881 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.headTitle view.data-v-1cf59881 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  background-color: #dedede;
+  text-align: center;
+}
+.headTitle view text.data-v-1cf59881 {
+  color: #666;
+}
+.headTitle view text.data-v-1cf59881:first-child {
+  font-size: 28rpx;
+  margin-right: 8rpx;
+}
+.headTitle view text.data-v-1cf59881:last-child {
+  font-size: 28rpx;
+}
+.headNav.data-v-1cf59881 {
+  height: 64rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.headNav .activNav.data-v-1cf59881 {
+  width: 650rpx;
+  height: 100%;
+  position: relative;
+}
+.headNav .activNav>view.data-v-1cf59881 {
+  padding: 0 20rpx;
+}
+.headNav .activNav>view.data-v-1cf59881:first-child {
+  font-size: 28rpx;
+  color: #333;
+  line-height: 64rpx;
+}
+.headNav .activNav>view.data-v-1cf59881:last-child {
+  width: 710rpx;
+  height: 310rpx;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-align-content: space-around;
+          align-content: space-around;
+  background-color: #fff;
+}
+.headNav .activNav>view:last-child view.data-v-1cf59881 {
+  width: 150rpx;
+  height: 56rpx;
+  font-size: 24rpx;
+  background-color: #fafafa;
+  color: #333;
+  line-height: 56rpx;
+  text-align: center;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+}
+.headNav .activNav>view:last-child view.activRed.data-v-1cf59881 {
+  border: 1px solid #dd1a21 !important;
+  color: #dd1a21 !important;
+}
+.headNav .headNavLeft.data-v-1cf59881 {
+  width: 650rpx;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.headNav .headNavLeft .headNavLeftItem.data-v-1cf59881 {
+  height: 100%;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 40rpx 0 20rpx;
+}
+.headNav .headNavLeft .headNavLeftItem view.data-v-1cf59881 {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  padding: 0 20rpx;
+  color: #333;
+  font-size: 28rpx;
+  line-height: 64rpx;
+}
+.headNav .headNavLeft .headNavLeftItem view.activItem.data-v-1cf59881 {
+  color: #dd1a21;
+  position: relative;
+}
+.headNav .headNavLeft .headNavLeftItem view.activItem.data-v-1cf59881::after {
+  content: '';
+  width: 100%;
+  height: 1px;
+  background-color: #dd1a21;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.headNav .headNavRight.data-v-1cf59881 {
+  width: 100rpx;
+  height: 100%;
+  text-align: center;
+  line-height: 64rpx;
+  background-color: #fff;
+  position: relative;
+}
+.headNav .headNavRight view.data-v-1cf59881 {
+  width: 64rpx;
+  height: 64rpx;
+  position: absolute;
+  top: 0;
+  left: -64rpx;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(250,255,255,0)), color-stop(rgba(250,255,255,0.7)), to(#fff));
+  background: -webkit-linear-gradient(left, rgba(250,255,255,0), rgba(250,255,255,0.7), #fff);
+  background: linear-gradient(to right, rgba(250,255,255,0), rgba(250,255,255,0.7), #fff);
+}
+.headNav .headNavRight text.data-v-1cf59881 {
+  display: inline-block;
+  font-size: 40rpx;
+  color: #666;
+  -webkit-transition: -webkit-transform 600ms;
+  transition: -webkit-transform 600ms;
+  transition: transform 600ms;
+  transition: transform 600ms, -webkit-transform 600ms;
+  -webkit-transform: rotateZ(0deg);
+          transform: rotateZ(0deg);
+}
+.headNav .headNavRight text.activRotateZ.data-v-1cf59881 {
+  -webkit-transform: rotateZ(180deg);
+          transform: rotateZ(180deg);
+}
+

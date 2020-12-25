@@ -1,0 +1,69 @@
+.worthBannerBox.data-v-4aa03c7b {
+  height: 540rpx;
+  padding: 36rpx 0 70rpx 0;
+  margin: 0 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+  background-color: #fff;
+  -webkit-border-radius: 12rpx;
+          border-radius: 12rpx;
+}
+.worthBannerBox .worthBannerSwiper.data-v-4aa03c7b {
+  height: 100%;
+}
+.worthBannerBox .worthBannerSwiper .worthBannerSwiperItem.data-v-4aa03c7b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-flow: column nowrap;
+          flex-flow: column nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.worthBannerBox .worthBannerSwiper .worthBannerSwiperItem .worthBannerItem.data-v-4aa03c7b {
+  width: 180rpx;
+  text-align: center;
+}
+.worthBannerBox .worthBannerSwiper .worthBannerSwiperItem .worthBannerItem .worthBannerItemImage.data-v-4aa03c7b {
+  width: 120rpx;
+  height: 120rpx;
+  margin: 0 auto;
+}
+.worthBannerBox .worthBannerSwiper .worthBannerSwiperItem .worthBannerItem .worthBannerItemTitle.data-v-4aa03c7b {
+  font-size: 28rpx;
+  color: #333;
+  font-weight: 700;
+  margin-top: 8rpx;
+}
+.worthBannerBox .worthBannerSwiper .worthBannerSwiperItem .worthBannerItem .worthBannerItemText.data-v-4aa03c7b {
+  font-size: 24rpx;
+  color: #999;
+  margin-top: 2rpx;
+}
+.swiperDot.data-v-4aa03c7b {
+  position: absolute;
+  left: 0;
+  bottom: 20rpx;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.icon-douhao.data-v-4aa03c7b {
+  color: #d81e06;
+  font-size: 22rpx;
+  margin: 0 3rpx;
+}
+.icon-dianxuan.data-v-4aa03c7b {
+  color: #d9d9d9;
+  font-size: 16rpx;
+  margin: 0 6rpx;
+}
+

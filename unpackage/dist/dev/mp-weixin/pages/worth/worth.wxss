@@ -1,0 +1,42 @@
+.worthBox.data-v-517f2d64 {
+  background-color: #eee;
+}
+.worthTop.data-v-517f2d64 {
+  padding-top: 144rpx;
+  position: relative;
+}
+.worthTop .worthbg.data-v-517f2d64 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.worthTop .worthbg text.data-v-517f2d64 {
+  position: absolute;
+  top: 82rpx;
+  left: 146rpx;
+  font-size: 30rpx;
+  color: #fff;
+}
+.worthTop .worthbg image.data-v-517f2d64 {
+  display: block;
+}
+.worthTop .worthbg image.data-v-517f2d64:nth-child(1) {
+  width: 130rpx;
+  position: absolute;
+  top: 60rpx;
+  left: 12rpx;
+}
+.worthTop .worthbg image.data-v-517f2d64:nth-child(2) {
+  width: 100%;
+}
+.worthBottom.data-v-517f2d64 {
+  margin: 30rpx 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+

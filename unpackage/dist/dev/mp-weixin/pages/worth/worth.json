@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#fefefe",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "值得买",
+  "navigationStyle": "default",
+  "onReachBottomDistance": 200,
+  "usingComponents": {
+    "worth-banner": "/pages/worth/components/worthBanner",
+    "worth-bottom-list-item": "/pages/worth/components/worthBottomListItem"
+  }
+}

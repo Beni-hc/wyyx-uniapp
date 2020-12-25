@@ -1,0 +1,49 @@
+.bannerBox.data-v-1f25ebb2 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.bannerBox .swiperStyle.data-v-1f25ebb2 {
+  width: 100%;
+  height: 100%;
+}
+.bannerBox .imageBox.data-v-1f25ebb2 {
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
+.bannerBox .imageBox .imageCss.data-v-1f25ebb2 {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.swiperDot.data-v-1f25ebb2 {
+  position: absolute;
+  left: 0;
+  bottom: 10rpx;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-transform: translate(0%, 0px) translateZ(0px);
+          transform: translate(0%, 0px) translateZ(0px);
+}
+.swiperDot .icon-douhao.data-v-1f25ebb2 {
+  color: #d81e06;
+  font-size: 22rpx;
+  margin: 0 3rpx;
+}
+.swiperDot .icon-dianxuan.data-v-1f25ebb2 {
+  color: #fff;
+  font-size: 16rpx;
+  margin: 0 6rpx;
+}
+

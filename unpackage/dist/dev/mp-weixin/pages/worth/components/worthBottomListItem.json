@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "image-lazy-load": "/components/imageLazyLoad"
+  }
+}

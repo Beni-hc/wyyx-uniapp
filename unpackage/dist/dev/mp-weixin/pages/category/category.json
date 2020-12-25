@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fefefe",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "分类",
+  "navigationStyle": "default",
+  "disableScroll": true,
+  "usingComponents": {
+    "category-item": "/pages/category/components/categoryItem"
+  }
+}
